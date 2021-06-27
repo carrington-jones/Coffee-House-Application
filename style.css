@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+#navBarName{
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'New Rocker', cursive;
+}
+
+#coffeewelcome{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.bg-coffee {
+    background: url("img/coffee.jpeg") center center;
+    display: flex;
+    background-size: cover;
+}
+
+.coffee-welcome {
+    background-color: lightgrey;
+    width: 100%;
+    text-align: center;
+    opacity: .5;
+}
+#jumbotron{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.icons{
+    margin: 2px;
+}
+#navbar{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.navbar{
+}
